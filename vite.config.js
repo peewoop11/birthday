@@ -10,5 +10,6 @@ export default defineConfig({
 
     port: 3000 // Specify the desired port
 
-  }
+  },
+  base: '/birthday/', // Replace with your GitHub repo name
 })
