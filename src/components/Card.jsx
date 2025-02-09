@@ -36,18 +36,22 @@ function Card() {
       <div id="card" className={`${cardClass}`} onClick={toggleCard}>     
         <div id="card-inside">
           <div className="wrap">
-            <p>Happy Birthday, John Doe!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque delectus dolore recusandae eveniet dicta. Corrupti.</p>
+            <p>Happy Birthday, future lifesaver!</p>
+            <p>May your BP stay normal and caffeine level be stable</p>
             <p>
-              I hope you have a very blessed birthday!
+              Looking forward to more lectures with you—even though I kinda don’t get what you’re saying half the time (I only understood 'heart' and 'BP.')
             </p>
             <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, cum.
+              "Daghan mag factors why motaas ang BP sa person, basig ni engage siyag rigorous activity prior sa paBP. It doesn't automatically mean nga highblood naka"
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            —Opay (2024)
             </p>
-            <p className="signed">Jane Doe</p>
+            <p>
+              Wishing you a year filled with smooth clinicals, easy exams, and well-earned breaks. Enjoy your special day.
+            </p>
+            <p>PadayoRN!♥️</p>
+            <p className="signed">peewoop</p>
           </div>
         </div>
 
